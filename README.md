@@ -3,19 +3,18 @@ This repository is for GreenTree company's LLM intern project
 
 # Key Findings
 
-* Neutral Tone Dominates: Most communication was professional, with positivity outweighing negativity.
 * Positive Employees Write More: Positive sentiment correlated with longer, more descriptive messages.
 * Risk Indicators: A subset of employees flagged as potential flight risks due to repeated negativity.
 * Predictive Insights: Sentiment trends are partially predictable with linear regression, but further modeling (e.g., ensemble methods or deep learning) may yield higher accuracy.
 
 # Top 3 Positive Employees
-* johnny.palmer@enron.com  
 * lydia.delgado@enron.com  
-* sally.beck@enron.com  
+* john.arnold@enron.com   
+* eric.bass@enron.com  
 # Top 3 Negative Employees
 * bobette.riner@ipgdirect.com
-* john.arnold@enron.com
 * sally.beck@enron.com
+* kayne.coulter@enron.com  
 # Flagged Flight Risk Employees
 The following employees are flagged due to the negative message frequency:
 * bobette.riner@ipgdirect.com	
